@@ -42,9 +42,9 @@ Campo de entrada onde o usuário pode digitar informações.
 
 Imagem armazenada dentro do próprio projeto e exibida na interface.
 
-### Image (imagem remota)
+### Image (imagem Local)
 
-Imagem carregada diretamente da internet através de uma URL.
+Imagem armazenada dentro do próprio projeto e exibida na interface.
 
 ### ScrollView
 
