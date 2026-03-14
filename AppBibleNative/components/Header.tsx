@@ -1,11 +1,9 @@
 import { Text, View } from "react-native";
 
-interface HeaderProps {
-    texto: string;
-}
 
-export default function Header ({ texto }: HeaderProps) {
- 
+export default function Header (props) {
+
+    const { texto } = props;
 
     return (
         <View>
